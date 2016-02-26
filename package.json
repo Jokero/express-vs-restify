@@ -1,0 +1,17 @@
+{
+  "name": "express-vs-restify",
+  "version": "0.0.1",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jokero/express-vs-restify.git"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4",
+    "restify": "^4.0.4"
+  }
+}
